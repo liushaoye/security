@@ -1,6 +1,12 @@
 
 # Springboot Security
 
+### 0、登录账户和密码
+```
+   用户名 :user
+   密码 : password
+
+```
 
 ### 1、修复权限访问问题
 
